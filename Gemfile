@@ -56,3 +56,4 @@ gem 'mini_magick'
 gem 'devise'
 # gem 'jquery-raty-rails', github: 'bmc/jquery-raty-rails'
 gem 'tzinfo-data' # for working in windows
+gem 'searchkick'
